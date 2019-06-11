@@ -22,5 +22,5 @@ Prob "a|(0.5)b" "a"
 Prob "(a|(0.2)b|(0.3)c|(0.4)d|(0.5)r)*(0.2)" "abracadabra"
 
 If you wish to see the parse-tree, NFA and DFA that's constructed from the regular expression, write "verbose=true" (not including quotation marks)
-If you wish to turn verbose output off again, write "verbose=false" (not including quotation marks)
+If you wish to turn verbose output off again, write "verbose=false"
 Verbose output is false by default.
